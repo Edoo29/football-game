@@ -1,9 +1,10 @@
 # Football Game
 
-DESCRIPTION: \
+## Description
+
 A beautiful terminal-based football game made in Python
 
-HOW TO PLAY: \
+## How to play
 
 1. Clone this repo
 
