@@ -8,7 +8,7 @@ A beautiful terminal-based football game made in Python
 
 1. Clone this repo
 
-```sh
+```bash
 git clone https://github.com/Edoo29/football-game.git
 ```
 
